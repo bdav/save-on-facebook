@@ -1,0 +1,7 @@
+body {
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-size: 100%;
+}
+#inner {
+max-width: 300px;
+}
