@@ -2,6 +2,6 @@ body {
 font-family: "Helvetica Neue", Arial, sans-serif;
 font-size: 100%;
 }
-#inner {
+#outer {
 max-width: 300px;
 }
